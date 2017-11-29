@@ -1,4 +1,4 @@
-//特别感谢
+﻿//特别感谢
 var clothesNotice = "";
 var clothesHistoryNotice = "";
 
