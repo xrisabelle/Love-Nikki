@@ -4,4 +4,4 @@ var clothesHistoryNotice = "";
 
 //历史更新
 var levelNotice = "";
-var levelHistoryNotice = "<br>历史更新记录。<br>2017.11.29配装器网页修改V1.0。";
+var levelHistoryNotice = "<br>历史更新记录。<br>2017.11.29配装器网页修改V1.0.1。";
